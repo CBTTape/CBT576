@@ -1,0 +1,8 @@
+2023-04-02 15:12:49.704542 - Initialized conversion of CBT576
+2023-04-02 15:12:49.758932 - Received CBT.V504.FILE576.PDS from FILE576.XMI 
+2023-04-02 15:12:49.761837 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE576.PDS, moved to PDS/$$$#DATE
+2023-04-02 15:12:49.763280 - Found $$NOTE1.txt (text/plain) in CBT.V504.FILE576.PDS, moved to PDS/$$NOTE1
+2023-04-02 15:12:49.764454 - Found $XCPYDOC.txt (text/plain) in CBT.V504.FILE576.PDS, moved to PDS/$XCPYDOC
+2023-04-02 15:12:49.765722 - Found @FILE576.txt (text/plain) in CBT.V504.FILE576.PDS, moved to PDS/@FILE576
+2023-04-02 15:12:49.766801 - Found XCPY.rexx (text/plain) in CBT.V504.FILE576.PDS, moved to PDS/XCPY
+2023-04-02 15:12:49.767827 - Found XCPYPNL0.txt (text/plain) in CBT.V504.FILE576.PDS, moved to PDS/XCPYPNL0
